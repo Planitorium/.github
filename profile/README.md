@@ -7,10 +7,9 @@ https://www.figma.com/design/pZDq9gmQn28fj1vFTri64d/Planitorium?node-id=0-1&t=4J
 
 <hr>
 
-![image](https://media.discordapp.net/attachments/1212016492845994045/1316795923774312478/image.png?ex=675c5945&is=675b07c5&hm=426b46cdb2b97cd71604b3de213c6cc6768145d60d3a0aac29147383d22639e8&=&format=webp&quality=lossless&width=787&height=551)
-![image](https://media.discordapp.net/attachments/1212016492845994045/1316796058260471869/image.png?ex=675c5965&is=675b07e5&hm=439db46d095b84dd7f26fddae3428e72fcc4fa1ee61c6abe6c3117db319b1a76&=&format=webp&quality=lossless&width=788&height=551)
-![image](https://media.discordapp.net/attachments/1212016492845994045/1316796266851598467/image.png?ex=675c5996&is=675b0816&hm=96b4c7ea84a1bc0e084770cb4590fedfa0ed01cc59c41e119590867bba811bdd&=&format=webp&quality=lossless&width=795&height=551)
-![image](https://media.discordapp.net/attachments/1212016492845994045/1316796362037133333/image.png?ex=675c59ad&is=675b082d&hm=42e524702168d1e2480ee9baf6e91a99ccf01878b5d9a9de8732495c967156f0&=&format=webp&quality=lossless&width=792&height=551)
+![image](https://media.discordapp.net/attachments/1212016492845994045/1317055779513303082/image.png?ex=675d4b47&is=675bf9c7&hm=520ae2563e7e5804cbeca869bde3bc8ef71a2e60c2c055635d0dceb0578c77af&=&format=webp&quality=lossless&width=1061&height=551)
+![image](https://media.discordapp.net/attachments/1212016492845994045/1317055916582899712/image.png?ex=675d4b68&is=675bf9e8&hm=306a6163139340ef0e177acc3c353713f576f844717a18139390eb3badbcfbff&=&format=webp&quality=lossless&width=1061&height=551)
+![image](https://media.discordapp.net/attachments/1212016492845994045/1317056015908212756/image.png?ex=675d4b7f&is=675bf9ff&hm=c0b9c8a96554ea0229c784f7263992cf356e90f94e32b2035d6cd9c2c23c4c57&=&format=webp&quality=lossless&width=1061&height=551)
 
 <hr>
 <h1>Our Team</h1>
